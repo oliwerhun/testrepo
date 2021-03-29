@@ -1,2 +1,2 @@
-# tesztrepo
+# testrepo
 Repo for testing
